@@ -9,7 +9,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02DivideAndConquer", "Divid
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03AssessmentSimulation", "03AssessmentSimulation\03AssessmentSimulation.csproj", "{1394516A-16C7-4787-B5D6-3F3019DF594D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02AssignmentSeatBooking", "02AssignmentSeatBooking\02AssignmentSeatBooking.csproj", "{7C32FB4E-D7EC-4A8F-81FF-624A96BE8BA0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04AssignmentSeatBooking", "02AssignmentSeatBooking\04AssignmentSeatBooking.csproj", "{7C32FB4E-D7EC-4A8F-81FF-624A96BE8BA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05SynchrnoizationMonitor", "05SynchrnoizationMonitor\05SynchrnoizationMonitor.csproj", "{830610BE-EB6B-46BD-8A1F-5CDC31558ACA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{7C32FB4E-D7EC-4A8F-81FF-624A96BE8BA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C32FB4E-D7EC-4A8F-81FF-624A96BE8BA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C32FB4E-D7EC-4A8F-81FF-624A96BE8BA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{830610BE-EB6B-46BD-8A1F-5CDC31558ACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{830610BE-EB6B-46BD-8A1F-5CDC31558ACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{830610BE-EB6B-46BD-8A1F-5CDC31558ACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{830610BE-EB6B-46BD-8A1F-5CDC31558ACA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
